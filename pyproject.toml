@@ -11,6 +11,8 @@ authors = [
     { name = "Jordao Bragantini", email = "jordao.bragantini@czbiohub.org" }
 ]
 requires-python = ">=3.11"
+license = "BSD-3-Clause"
+license-files = ["LICENSE"]
 dependencies = ["cupy"]
 
 [project.optional-dependencies]
